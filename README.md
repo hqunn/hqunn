@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Louis 👋
+# 👋 Hi, Nice to see you
 
 Hi, I'm Louis (Đinh Hoàng Quân) — a Computer Science student at Bach Khoa University from Ho Chi Minh City, Vietnam, passionate about Artificial Intelligence and specializing in Generative AI and Machine Learning.  
 I am a curious and driven learner who constantly seeks to expand my knowledge, explore emerging technologies, and embrace new challenges. My approach combines technical skills with a growth mindset, allowing me to adapt quickly, learn from every experience, and deliver impactful solutions.
