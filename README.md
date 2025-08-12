@@ -25,7 +25,10 @@ I am a curious and driven learner who constantly seeks to expand my knowledge, e
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hqunn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hqunn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hqunn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinhhoangquan) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
