@@ -30,4 +30,4 @@ I am a curious and driven learner who constantly seeks to expand my knowledge, e
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hqunn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinhhoangquan) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
