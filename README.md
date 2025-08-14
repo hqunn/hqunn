@@ -20,7 +20,7 @@ I am a curious and driven learner who constantly seeks to expand my knowledge, e
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hqunn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hqunn&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hqunn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hqunn&theme=tokyonight&layout=compact&langs_count=20)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hqunn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
