@@ -18,7 +18,7 @@ I am a curious and driven learner who constantly seeks to expand my knowledge, e
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hqunn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=hqunn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=hqunn&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hqunn&theme=tokyonight&layout=compact&langs_count=20)
 
